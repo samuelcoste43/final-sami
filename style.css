@@ -1,0 +1,17 @@
+body{
+width:100%;    
+}
+.banner img{
+    width:100%;
+}
+
+body::-webkit-scrollbar {
+    width:1px;    
+}
+
+.parrafo {
+    font-size: 3rem;
+    
+}
+
+
